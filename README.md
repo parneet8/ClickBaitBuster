@@ -1,4 +1,4 @@
-# Fake_JobPostings_Classifier
+# ClickBaitBuster
 This repository explores varioustechniques in  machine learning to identify fraudulent job postings within textual data. <br />
 This can help job seekers avoid scams and fraudulent postings.
 
