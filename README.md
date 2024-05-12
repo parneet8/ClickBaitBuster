@@ -2,7 +2,7 @@
 This repository explores varioustechniques in  machine learning to identify fraudulent job postings within textual data. <br />
 This can help job seekers avoid scams and fraudulent postings.
 
-Description of the dataset can be found here https://www.kaggle.com/shivamb/real-or-fake-fake-jobposting-prediction
+Description of the dataset can be found here: <br />https://www.kaggle.com/shivamb/real-or-fake-fake-jobposting-prediction
 
 <h3>OBJECTIVES</h3> 
 1) Exploratory data analysis and Data Cleaning <br />
